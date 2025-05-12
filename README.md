@@ -39,5 +39,5 @@ This experience reinforced my understanding of automation, event-driven programm
 
 🔹 Looking forward to learning more about ethical hacking, automation, and cybersecurity!
 
-=> Would love to connect with professionals in these domains—let’s share knowledge and grow together! 
-#Python #Cybersecurity #Automation #EthicalHacking #Programming #Learning #prodigyinfotech
+=> Would love to connect with professionals in these domains.
+#Python #Cybersecurity #Automation #EthicalHacking #Programming #Learning
