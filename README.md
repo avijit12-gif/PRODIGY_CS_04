@@ -1,5 +1,5 @@
 # Keylogger-in-Python
-"Excited to share that I have successfully completed my Cyber Security task 03.
+"Excited to share that I have successfully completed my project
 It was a great experience, and I learned a lot along the way. Looking forward to new challenges ahead!
 
  What I Learned from Building a Keylogger in Python
